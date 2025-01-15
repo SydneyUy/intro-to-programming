@@ -1,0 +1,1 @@
+print (str(' "The things we believed,\n\t the experiences we had when we were young,\n\t\t turn to priceless treasures when we grew up." \n\t\t -Yoimiya Naganohara'))
